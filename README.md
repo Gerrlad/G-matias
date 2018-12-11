@@ -1,2 +1,2 @@
 # G-matias
-this is for new projects
+This is for new project. Battery tester project.
